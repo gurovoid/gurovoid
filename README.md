@@ -31,7 +31,6 @@
 + AGENT DOSSIER
 # ─────────────────────────────
 ! NAME       : GURO
-+ AFFILIATION: SECRET SERVICE
 # STATUS     : ACTIVE
 ! THREAT     : ██████████
 ```
@@ -69,7 +68,7 @@
 
 `Software Development` • `Boxing Training` • `Strength Building`
 
-`Leon Kennedy Cosplay` • `Surviving Debug Sessions`
+ • `Surviving Debug Sessions` • `Locking in`
 
 </div>
 
