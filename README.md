@@ -32,14 +32,17 @@
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/MtDcNW_Pdg0AAAAC/leon-kennedy-leon-s-kennedy.gif)"
-  width="420" />
+<!-- Leon Kennedy — Chained up, RE4 Remake -->
+<img src="https://media1.tenor.com/m/r-bKDCFZ_w4AAAAd/leon-kennedy-resident-evil-4.gif"
+     alt="Leon Kennedy chained up — RE4 Remake"
+     width="360" />
+
 <br/>
 
 <!-- Rotating Leon Kennedy quotes -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=3000&color=E8D5B7&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%22Maybe+we+both+know+this+is+our+separate+ways.%22;%22I+have+a+job+to+do.%22;%22No+thanks%2C+I+prefer+the+real+ones.%22;%22Where%27s+everyone+going%3F+Bingo%3F%22;%22Saddler%2C+you%27re+small-time.%22;%22You+were+almost+a+Jill+sandwich.%22;%22It%27s+up+to+us+to+carry+out+our+missions.%22" />
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=3000&color=8B7355&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%22Maybe+we+both+know+this+is+our+separate+ways.%22;%22I+have+a+job+to+do.%22;%22No+thanks%2C+I+prefer+the+real+ones.%22;%22Where%27s+everyone+going%3F+Bingo%3F%22;%22Saddler%2C+you%27re+small-time.%22;%22You+were+almost+a+Jill+sandwich.%22;%22It%27s+up+to+us+to+carry+out+our+missions.%22" alt="Leon Kennedy Quotes" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=3000&color=E8D5B7&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%22Maybe+we+both+know+this+is+our+separate+ways.%22;%22See+you+around%2C+Ada.%22;%22I+always+knew+you%27d+betray+me%2C+yet+somehow...+I+couldn%27t+let+you+die.%22;%22Hasta+luego%2C+stranger.%22;%22No+matter+how+many+times+our+paths+cross%2C+you+always+slip+away.%22;%22I+have+a+job+to+do.%22;%22Where%27s+everyone+going%3F+Bingo%3F%22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=3000&color=8B7355&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%22Maybe+we+both+know+this+is+our+separate+ways.%22;%22See+you+around%2C+Ada.%22;%22I+always+knew+you%27d+betray+me%2C+yet+somehow...+I+couldn%27t+let+you+die.%22;%22Hasta+luego%2C+stranger.%22;%22No+matter+how+many+times+our+paths+cross%2C+you+always+slip+away.%22;%22I+have+a+job+to+do.%22;%22Where%27s+everyone+going%3F+Bingo%3F%22" alt="Leon Kennedy Quotes" />
 </picture>
 
 </div>
@@ -57,8 +60,8 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-> **You encounter a stranger who codes, lifts, cosplays, and boxes.**
-> **Turns out — you found your man.**
+> **Ever met a guy who codes, lifts, cosplays, and boxes?**
+> **Well, now you have**
 >
 > Hello, agent. Call me **Guro**.
 > Whether it's debugging sessions or sparring rounds, I'm always in.
@@ -69,12 +72,15 @@
 <div align="center">
   <sub><i>— it might be you are my Ada Wong, or not —</i></sub>
   <br/>
-  <sub><i>「 Stay frosty. 」</i></sub>
 </div>
 
 ---
 
 ## 〔 SKILLS & ARSENAL 〕
+
+```
+[ EQUIPMENT LOADOUT ]
+```
 
 <div align="center">
 
@@ -86,6 +92,10 @@
 </div>
 
 <br/>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -101,18 +111,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=gurovoid&theme=dark&background=0d1117&border=30363d&stroke=8b7355&ring=e8d5b7&fire=cc4400&currStreakNum=e8d5b7&sideNums=c9d1d9&currStreakLabel=8b7355&sideLabels=8b7355&dates=666666)
 
 </div>
-
----
-
-## 〔 ACTIVITY LOG 〕
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/gurovoid/gurovoid/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-> ⚠️ *To enable the snake: go to [this guide](https://github.com/Platane/snk) and set up the GitHub Action. Remove this line once active.*
 
 ---
 
