@@ -9,7 +9,7 @@
 -->
 
 <div align="center">
-[![Discord Presence](https://lanyard.cnrad.dev/api/YOUR_DISCORD_USER_ID?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably+training+or+coding...&hideActivity=whenNotUsed)](https://discord.com/users/712541347550199808)
+[![Discord Presence](https://lanyard.cnrad.dev/api/712541347550199808?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably+training+or+coding...&hideActivity=whenNotUsed)](https://discord.com/users/712541347550199808)
 
 </div>
 
@@ -18,7 +18,7 @@
 <div align="center">
 
 <!-- Leon Kennedy GIF -->
-<img src="https://media.tenor.com/K_B-swGCVNoAAAAM/leon-kennedy-resident-evil.gif" width="280" alt="Leon Kennedy" />
+<img src="[https://media.tenor.com/K_B-swGCVNoAAAAM/leon-kennedy-resident-evil.gif](https://tenor.com/view/leon-kennedy-resident-evil-resident-evil-4-video-game-purple-gif-12207418468225453473)" width="280" alt="Leon Kennedy" />
 
 <br/><br/>
 
