@@ -83,37 +83,14 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/Code-Tactical_Operator-0d1117?style=for-the-badge&logo=github&logoColor=E8D5B7&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Gym-Iron_Protocol-FF4500?style=for-the-badge&logo=trainerroad&logoColor=white&labelColor=8B0000)
-![](https://img.shields.io/badge/Cosplay-Costume_Unit-6A0DAD?style=for-the-badge&logo=deviantart&logoColor=white&labelColor=3d0066)
-![](https://img.shields.io/badge/Boxing-Combat_Ready-CC0000?style=for-the-badge&logo=buffer&logoColor=white&labelColor=8B0000)
+![](https://img.shields.io/badge/Code-0d1117?style=for-the-badge&logo=github&logoColor=E8D5B7&labelColor=1a1a2e)
+![](https://img.shields.io/badge/Gym-FF4500?style=for-the-badge&logo=trainerroad&logoColor=white&labelColor=8B0000)
+![](https://img.shields.io/badge/Cosplay-6A0DAD?style=for-the-badge&logo=deviantart&logoColor=white&labelColor=3d0066)
+![](https://img.shields.io/badge/Boxing-CC0000?style=for-the-badge&logo=buffer&logoColor=white&labelColor=8B0000)
 
 </div>
 
 <br/>
-
-```
-[ TACTICAL INTEL ]
-```
-
-<div align="center">
-
-| FIELD               | STATUS                          |
-|---------------------|---------------------------------|
-| 💻 Primary Weapon   | Code — clean, fast, lethal      |
-| 🏋️ Training Regime  | Gym — no shortcuts, no excuses  |
-| 🎭 Disguise Unit    | Cosplay — method acting level   |
-| 🥊 CQC Proficiency  | Boxing — hands certified        |
-
-</div>
-
----
-
-## 〔 MISSION STATS 〕
-
-```
-[ GITHUB INTEL — PULL FROM DATABASE ]
-```
 
 <div align="center">
 
