@@ -34,8 +34,6 @@
 ---
 
 ## 〔 AGENT FILE: GURO 〕
-
-... (sisa README sama seperti sebelumnya)
 ╔══════════════════════════════════════════════════════════╗
 ║  AGENT DESIGNATION : GURO                                ║
 ║  DISCORD STATUS    : ↑ see badge above (live)            ║
