@@ -5,17 +5,21 @@
 ██║   ██║██║   ██║██╔══██╗██║   ██║
 ╚██████╔╝╚██████╔╝██║  ██║╚██████╔╝
  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝
- Welcome to my profile, stranger.
+
+ ACCESSING CLASSIFIED DATABASE...
 -->
 
 <div align="center">
 
+# 🕶️ U.S.S. INTELLIGENCE DATABASE
+
+```diff
++ ACCESS LEVEL : GRANTED
+# CLEARANCE    : LEVEL 5
+! STATUS       : OPERATIONAL
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓  U.S.S. AGENT PROFILE — CLASSIFIED LEVEL 5             ▓
-▓  "The mission is everything. Failure is not an option." ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D6B17A"/>
 
 </div>
 
@@ -23,8 +27,7 @@
 
 <div align="center">
 
-<!-- Discord Live Status -->
-[![Discord Presence](https://lanyard.cnrad.dev/api/712541347550199808?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Probably+training+or+coding...&hideActivity=whenNotUsed)](https://discord.com/users/712541347550199808)
+[![Discord Presence](https://lanyard.cnrad.dev/api/712541347550199808?theme=dark\&bg=0d1117\&borderRadius=12px\&idleMessage=Training,+coding,+or+surviving+another+debugging+session.\&hideActivity=whenNotUsed)](https://discord.com/users/712541347550199808)
 
 </div>
 
@@ -32,106 +35,138 @@
 
 <div align="center">
 
-<!-- Leon Kennedy — Chained up, RE4 Remake -->
 <img src="https://media1.tenor.com/m/r-bKDCFZ_w4AAAAd/leon-kennedy-resident-evil-4.gif"
-     alt="Leon Kennedy chained up — RE4 Remake"
-     width="360" />
+alt="Leon Kennedy"
+width="420"/>
 
-<br/>
+<br><br>
 
-<!-- Rotating Leon Kennedy quotes -->
+<img src="https://img.shields.io/badge/U.S.S-CLASSIFIED-8B2E2E?style=for-the-badge&logo=shield&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CLEARANCE-LEVEL_5-D6B17A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-2E8B57?style=for-the-badge"/>
+
+<br><br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=3000&color=E8D5B7&background=0D111700&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%22Maybe+we+both+know+this+is+our+separate+ways.%22;%22See+you+around%2C+Ada.%22;%22I+always+knew+you%27d+betray+me%2C+yet+somehow...+I+couldn%27t+let+you+die.%22;%22Hasta+luego%2C+stranger.%22;%22No+matter+how+many+times+our+paths+cross%2C+you+always+slip+away.%22;%22I+have+a+job+to+do.%22;%22Where%27s+everyone+going%3F+Bingo%3F%22" />
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=18&pause=3000&color=8B7355&background=FFFFFF00&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%22Maybe+we+both+know+this+is+our+separate+ways.%22;%22See+you+around%2C+Ada.%22;%22I+always+knew+you%27d+betray+me%2C+yet+somehow...+I+couldn%27t+let+you+die.%22;%22Hasta+luego%2C+stranger.%22;%22No+matter+how+many+times+our+paths+cross%2C+you+always+slip+away.%22;%22I+have+a+job+to+do.%22;%22Where%27s+everyone+going%3F+Bingo%3F%22" alt="Leon Kennedy Quotes" />
+<source media="(prefers-color-scheme: dark)"
+srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=3000&color=D6B17A&background=0D111700&center=true&vCenter=true&width=900&lines=Maybe+we+both+know+this+is+our+separate+ways.;See+you+around,+Ada.;Hasta+luego,+stranger.;No+matter+how+many+times+our+paths+cross.;I+have+a+job+to+do.;Where's+everyone+going%3F+Bingo%3F" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=3000&color=D6B17A&background=FFFFFF00&center=true&vCenter=true&width=900&lines=Maybe+we+both+know+this+is+our+separate+ways.;See+you+around,+Ada.;Hasta+luego,+stranger.;No+matter+how+many+times+our+paths+cross.;I+have+a+job+to+do.;Where's+everyone+going%3F+Bingo%3F"/>
 </picture>
 
 </div>
 
 ---
 
-## 〔 AGENT FILE: GURO 〕
+# 🕶️ AGENT DOSSIER
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║  AGENT DESIGNATION  :  G U R O                               ║
-║  AFFILIATION        :  U.S. Secret Service / Independent     ║
-║  DISCORD STATUS     :  ↑ see badge above (live)              ║
-║  THREAT LEVEL       :  ██████████  EXTREME                   ║
-╚══════════════════════════════════════════════════════════════╝
+<div align="center">
+
+```diff
++ ┌───────────────────────────────────────────────┐
+# │         U.S.S. AGENT DOSSIER // ACTIVE        │
++ ├───────────────────────────────────────────────┤
+! │ CODENAME      : GURO                          │
+# │ AFFILIATION   : SECRET SERVICE                │
++ │ STATUS        : OPERATIONAL                   │
+! │ CLEARANCE     : LEVEL 5                       │
+# │ THREAT LEVEL  : ██████████ EXTREME            │
++ └───────────────────────────────────────────────┘
 ```
 
-> **Ever met a guy who codes, lifts, cosplays, and boxes?**
-> **Well, now you have**
+</div>
+
+> Ever met a guy who codes, lifts, cosplays, and boxes?
+>
+> Well, now you have.
 >
 > Hello, agent. Call me **Guro**.
-> Whether it's debugging sessions or sparring rounds, I'm always in.
-> Drop me some advice on programming — I'm all ears.
+>
+>
+> Drop me some programming advice — I'm all ears.
 
-<br/>
-
-<div align="center">
-  <sub><i>— it might be you are my Ada Wong, or not —</i></sub>
-  <br/>
-</div>
-
----
-
-## 〔 SKILLS & ARSENAL 〕
-
-```
-[ EQUIPMENT LOADOUT ]
-```
+<br>
 
 <div align="center">
 
-![](https://img.shields.io/badge/Code-0d1117?style=for-the-badge&logo=github&logoColor=E8D5B7&labelColor=1a1a2e)
-![](https://img.shields.io/badge/Gym-FF4500?style=for-the-badge&logo=trainerroad&logoColor=white&labelColor=8B0000)
-![](https://img.shields.io/badge/Cosplay-6A0DAD?style=for-the-badge&logo=deviantart&logoColor=white&labelColor=3d0066)
-![](https://img.shields.io/badge/Boxing-CC0000?style=for-the-badge&logo=buffer&logoColor=white&labelColor=8B0000)
-
-</div>
-
-<br/>
+# ❝ It might be you are my Ada Wong... or not. ❞
 
 </div>
 
 ---
 
+# 🎯 CURRENT OBJECTIVES
+
+```txt
+MISSION LOG
+
+▸ Software Development
+▸ Boxing Training
+▸ Strength Building
+▸ Leon Kennedy Cosplay
+▸ Surviving Debug Sessions
+```
+
+---
+
+# ⚔️ EQUIPMENT & SKILLS
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gurovoid&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=e8d5b7&icon_color=8b7355&text_color=c9d1d9&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurovoid&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=e8d5b7&text_color=c9d1d9" />
+![](https://img.shields.io/badge/Code-0D1117?style=for-the-badge\&logo=github\&logoColor=D6B17A\&labelColor=1A1A1A)
 
-</div>
+![](https://img.shields.io/badge/Gym-8B2E2E?style=for-the-badge\&logo=trainerroad\&logoColor=white)
 
-<br/>
+![](https://img.shields.io/badge/Cosplay-5A3E2B?style=for-the-badge\&logo=deviantart\&logoColor=white)
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gurovoid&theme=dark&background=0d1117&border=30363d&stroke=8b7355&ring=e8d5b7&fire=cc4400&currStreakNum=e8d5b7&sideNums=c9d1d9&currStreakLabel=8b7355&sideLabels=8b7355&dates=666666)
+![](https://img.shields.io/badge/Boxing-7A1F1F?style=for-the-badge\&logo=buffer\&logoColor=white)
 
 </div>
 
 ---
 
-## 〔 TRANSMISSION ENDS 〕
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=gurovoid&show_icons=true&theme=dark&bg_color=0D1117&border_color=D6B17A&title_color=D6B17A&icon_color=8B7355&text_color=C9D1D9"/>
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurovoid&layout=compact&theme=dark&bg_color=0D1117&border_color=D6B17A&title_color=D6B17A&text_color=C9D1D9"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com?user=gurovoid\&theme=dark\&background=0D1117\&border=D6B17A\&stroke=8B7355\&ring=D6B17A\&fire=8B2E2E\&currStreakNum=C9D1D9\&sideNums=C9D1D9\&currStreakLabel=D6B17A\&sideLabels=D6B17A)
+
+</div>
+
+---
+
+# 📡 END OF TRANSMISSION
+
+<div align="center">
+
+```diff
++ MISSION COMPLETE
+# ------------------------------------------------
+! "Hasta luego, stranger."
++                         — Leon S. Kennedy
+# ------------------------------------------------
 ```
-╔═══════════════════════════════════════════╗
-║                                           ║
-║   "Hasta luego, stranger."                ║
-║                          — L. Kennedy     ║
-║                                           ║
-╚═══════════════════════════════════════════╝
-```
 
-<br/>
+<br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gurovoid&left_color=0d1117&right_color=8b7355&left_text=VISITORS)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gurovoid\&left_color=0D1117\&right_color=D6B17A\&left_text=VISITORS)
 
-<br/>
+<br><br>
+
+### [ CONNECTION TERMINATED ]
+
 <sub><i>This profile will self-destruct in 5... 4... 3... just kidding.</i></sub>
 
 </div>
