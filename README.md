@@ -36,3 +36,62 @@
 ## 〔 AGENT FILE: GURO 〕
 
 ... (sisa README sama seperti sebelumnya)
+╔══════════════════════════════════════════════════════════╗
+║  AGENT DESIGNATION : GURO                                ║
+║  DISCORD STATUS    : ↑ see badge above (live)            ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+> **Ever met a guy who loves code, gym, cosplay, boxing?**
+> **Now you have.**
+>
+> Hello chat — you can call me **Guro**.
+> Feel free to give me some advice about programming or anything.
+> I'm a good listener.
+
+<br/>
+
+<div align="center">
+  <sub><i>— it might be you are my Ada, or not —</i></sub>
+</div>
+
+---
+
+## 〔 SKILLS & ARSENAL 〕
+
+<div align="center">
+
+![](https://img.shields.io/badge/Code-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/Gym-FF4500?style=for-the-badge&logo=trainerroad&logoColor=white)
+![](https://img.shields.io/badge/Cosplay-6A0DAD?style=for-the-badge&logo=deviantart&logoColor=white)
+![](https://img.shields.io/badge/Boxing-CC0000?style=for-the-badge&logo=buffer&logoColor=white)
+
+</div>
+
+---
+
+## 〔 GITHUB STATS 〕
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=gurovoid&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=e8d5b7&icon_color=8b7355&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurovoid&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=e8d5b7&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## 〔 TRANSMISSION ENDS 〕
+
+<div align="center">
+
+```
+"Hasta luego, stranger."
+      — L. Kennedy
+```
+
+<br/>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gurovoid&left_color=0d1117&right_color=8b7355&left_text=VISITORS)
+
+</div>
