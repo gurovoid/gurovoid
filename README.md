@@ -32,9 +32,8 @@
 
 <div align="center">
 
-<!-- Leon Kennedy — Backflip over lasers (iconic RE4 scene) -->
-<div class="tenor-gif-embed" data-postid="12207418468225453473" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/leon-kennedy-resident-evil-resident-evil-4-video-game-purple-gif-12207418468225453473">Leon Kennedy Resident Evil GIF</a>from <a href="https://tenor.com/search/leon+kennedy-gifs">Leon Kennedy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<img src="https://media1.tenor.com/m/MtDcNW_Pdg0AAAAC/leon-kennedy-leon-s-kennedy.gif)"
+  width="420" />
 <br/>
 
 <!-- Rotating Leon Kennedy quotes -->
@@ -76,10 +75,6 @@
 ---
 
 ## 〔 SKILLS & ARSENAL 〕
-
-```
-[ EQUIPMENT LOADOUT ]
-```
 
 <div align="center">
 
