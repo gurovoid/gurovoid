@@ -10,6 +10,17 @@
 
 <img src="https://media1.tenor.com/m/r-bKDCFZ_w4AAAAd/leon-kennedy-resident-evil-4.gif" width="260"/>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=3500&color=D6B17A&background=0D111700&center=true&vCenter=true&width=850&height=45&lines=Maybe+we+both+know+this+is+our+separate+ways.;See+you+around,+Ada.;I+always+knew+you'd+betray+me,+yet+somehow...;Hasta+luego,+stranger.;No+matter+how+many+times+our+paths+cross.;I+have+a+job+to+do.;Where's+everyone+going%3F+Bingo%3F" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=3500&color=D6B17A&background=FFFFFF00&center=true&vCenter=true&width=850&height=45&lines=Maybe+we+both+know+this+is+our+separate+ways.;See+you+around,+Ada.;I+always+knew+you'd+betray+me,+yet+somehow...;Hasta+luego,+stranger.;No+matter+how+many+times+our+paths+cross.;I+have+a+job+to+do.;Where's+everyone+going%3F+Bingo%3F" />
+</picture>
+
+</div>
+
 </div>
 
 ---
