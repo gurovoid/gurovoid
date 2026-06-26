@@ -39,7 +39,8 @@
 
 > Developer • Boxer • Cosplayer • Gym Enthusiast
 >
-> *"The mission is everything. Failure is not an option."*
+> *"Ever heard a guy who do code, gym, cosplay and boxes?"*
+> Well, now you have...
 
 <div align="center">
 
