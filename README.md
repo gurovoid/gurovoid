@@ -71,7 +71,7 @@
 <!-- GIF KARAKTER + DOSSIER -->
 <div align="center">
 
-<img src="https://tenor.com/view/gif-dante-gif-21905093" width="220"/>
+<img src="https://media1.tenor.com/m/atG6zaAXy6cAAAAd/dante-dante-devil-may-cry.gif" width="280"/>
 
 </div>
 
