@@ -71,7 +71,7 @@
 <!-- GIF KARAKTER + DOSSIER -->
 <div align="center">
 
-<img src="https://media1.tenor.com/m/r-bKDCFZ_w4AAAAd/leon-kennedy-resident-evil-4.gif" width="220"/>
+<img src="https://tenor.com/view/gif-dante-gif-21905093" width="220"/>
 
 </div>
 
