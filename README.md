@@ -118,8 +118,6 @@
 `Software Development` · `Boxing Training` · `Strength Building`
 · `Surviving Debug Sessions` · `Locking In`
 
-*"Might controls everything — and without strength, you cannot protect anything."*
-
 </div>
 
 ---
@@ -144,7 +142,7 @@
 <!-- END TRANSMISSION -->
 <div align="center">
 
-*"I never go back on my word. That's my rule."*
+*"Jackpot."*
 **— Dante**
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=gurovoid&left_color=0d0808&right_color=8B0000&left_text=HUNTERS+PASSED+THROUGH)
